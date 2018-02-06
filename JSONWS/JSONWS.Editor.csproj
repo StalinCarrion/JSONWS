@@ -169,6 +169,7 @@
     <None Include="Assets\OVRInspector\Shaders\Particle-Alpha-Premultiply-AfterTrans.shader" />
     <None Include="Assets\OVRInspector\Shaders\UI-OptionalZTest.shader" />
     <None Include="Assets\OVRInspector\Shaders\UI-OptionalZTestFont.shader" />
+    <None Include="Assets\Scribs\linea.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

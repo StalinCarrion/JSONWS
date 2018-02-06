@@ -13,4 +13,6 @@ public class CubeListener : MonoBehaviour {
     {
         GetComponent<Renderer>().material.color = Color.white;
     }
+
+    
 }
